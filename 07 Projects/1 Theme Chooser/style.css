@@ -1,0 +1,39 @@
+body
+{
+    text-align: center;
+    background: #212121;
+    color: #f0f0f0;
+}
+
+div
+{
+    margin: 100px 0;
+}
+
+span
+{
+    margin: 60px 50px;
+    position: relative;
+    padding: 50px;
+    border: black solid 5px ;
+}
+
+#gray
+{
+    background: gray;
+}
+
+#blue
+{
+    background: blue;
+}
+
+#aqua
+{
+    background: aqua;
+}
+
+#teal
+{
+    background: teal;
+}

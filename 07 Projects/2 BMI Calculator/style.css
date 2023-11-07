@@ -1,0 +1,36 @@
+*
+{
+    color: #f0f0f0;
+}
+
+body
+{
+    background: #212121;
+}
+
+.container
+{
+    margin: 50px 100px;
+}
+
+#results
+{
+    padding: 20px 0;
+    font-size: 20px;
+}
+
+
+button
+{
+    color: black;
+}
+
+#weight-guide
+{
+    margin: 50px 0;
+}
+
+input
+{
+    color: black;
+}
